@@ -22,9 +22,7 @@ Since VolWorks uses modern Linux audio architecture, you need:
 
 ### Arch Linux (AUR)
 *(Will be available on AUR soon!)*
-```bash
-yay -S volworks-git
-```
+
 
 ### Manual Build
 Make sure you have Qt development tools installed on your distribution.
@@ -37,7 +35,8 @@ sudo make install
 ```
 
 ## 📸 Screenshots
-TODO
+ ![VolWorks Screenshots](https://raw.githubusercontent.com/erdincyz/gorseller/refs/heads/main/_cesitli/VolWorks_ekran_goruntusu.jpg)
+
 
 ---
 Developed by **[Makul Teknoloji](https://makulteknoloji.com)**

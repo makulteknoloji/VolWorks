@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>volume-100.png</file>
+        <file>volume-65.png</file>
+        <file>volume-33.png</file>
+        <file>volume-muted.png</file>
+    </qresource>
+</RCC>

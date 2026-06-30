@@ -22,9 +22,7 @@ VolWorks modern Linux ses mimarisini kullandığı için şunlara ihtiyacınız 
 
 ### Arch Linux (AUR)
 *(Yakında AUR'da yerini alacak!)*
-```bash
-yay -S volworks-git
-```
+
 
 ### Kaynaktan Derleme
 Dağıtımınızda Qt geliştirici araçlarının yüklü olduğundan emin olun.

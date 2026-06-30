@@ -1,5 +1,5 @@
 # SesAyar (VolWorks) 🔊
-**Nihayet düzgün çalışan bir ses yöneticisi (en azından benim için)**
+**Çalışan bir ses yöneticisi**
 
 [🇬🇧 Click here for English](README.en.md)
 
@@ -37,7 +37,7 @@ sudo make install
 ```
 
 ## 📸 Ekran Görüntüleri
-Eklenecek..
+ ![SesAyar Ekran Görüntüsü](https://raw.githubusercontent.com/erdincyz/gorseller/refs/heads/main/_cesitli/VolWorks_ekran_goruntusu.jpg)
 
 ---
 **[Makul Teknoloji](https://makulteknoloji.com)** tarafından geliştirilmiştir.

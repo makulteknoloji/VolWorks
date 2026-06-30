@@ -40,4 +40,4 @@ sudo make install
 Eklenecek..
 
 ---
-**[Makul Teknoloji](https://makulteknoloji.org)** tarafından geliştirilmiştir.
+**[Makul Teknoloji](https://makulteknoloji.com)** tarafından geliştirilmiştir.
